@@ -1,6 +1,8 @@
 # cs23beta
 GitHub Pages Assessment  
-
-git
-GitHub
-SSH
+GitHub Pages Exercise
+===========
+Involves
+* git
+* GitHub
+* SSH
